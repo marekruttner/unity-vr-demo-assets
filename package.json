@@ -1,0 +1,12 @@
+{
+    "name": "org.nvias.unity-vr-demo-assets",
+    "version": "1.0.0",
+    "displayName": "Nvias Unity VR demo package",
+    "description": "Sample assets and demos for learning projects based on students projects.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Marek Ruttner",
+        "email": "marek.ruttner@nvias.org",
+        "url": ""
+    }
+}
